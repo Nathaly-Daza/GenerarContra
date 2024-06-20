@@ -53,3 +53,7 @@ Puedes personalizar la aplicación modificando los archivos `styles.css` y `scri
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualquier cambio que te gustaría realizar.
+
+## Visualizador
+
+https://nathaly-daza.github.io/GenerarContra/
